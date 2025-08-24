@@ -28,13 +28,16 @@ This repository contains my personal study materials, solved problems, and proje
   - Introductory ML models
 
 ## 📂 Repository Structure (planned)
+
+```text
 SHAD-prep/
 │
-├── algorithms/ # LeetCode & Codeforces solutions
-├── math/ # Notes, solved problems (linear algebra, analysis, probability)
-├── sql/ # SQL practice tasks
-├── ml/ # ML basics and projects
-└── README.md # This file
+├── algorithms/       # LeetCode & Codeforces solutions
+├── math/             # Notes, solved problems (linear algebra, analysis, probability)
+├── sql/              # SQL practice tasks
+├── ml/               # ML basics and projects
+└── README.md         # This file
+```
 
 ## 🚀 Goals
 
